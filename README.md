@@ -1,3 +1,3 @@
 # emailapp
 
-![alt text](https://github.com/luanachen/FlutterEmailApp/blob/master/image.png?raw=true)
+![alt text](https://github.com/luanachen/FlutterEmailApp/blob/master/screenshot.png?raw=true)
