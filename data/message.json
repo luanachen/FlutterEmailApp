@@ -1,0 +1,27 @@
+[
+    {
+    "subject": "first email",
+    "body":
+        "bleh"
+    }, 
+    {
+    "subject": "second email",
+    "body":
+        "blehblehblehblehbleh"
+    }, 
+    {
+    "subject": "third email",
+    "body":
+        "blehblehblehblehbleh behblehblehblehblehblehblehblehblehblehbleh"
+    }, 
+    {
+    "subject": "blablablablablabla",
+    "body":
+        "blehblehblehblehbleh blehblehblehbblehblehbleh lehblehblehblehblehblehbleh blehblehbleh blehblehblehblehblehblehblehblehblehblehblehbleh"
+    }, 
+    {
+    "subject": "blablablablablabla",
+    "body":
+        "blehblehblehblehbleh blehblehblehbblehblehbleh lehblehblehblehblehblehbleh blehblehbleh blehblehblehblehblehblehblehblehblehblehblehbleh"
+    }
+  ]
